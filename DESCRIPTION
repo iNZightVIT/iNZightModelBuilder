@@ -11,5 +11,5 @@ License: GPL-3 | file LICENSE
 Additional_repositories: https://r.docker.stat.auckland.ac.nz
 Encoding: UTF-8
 LazyData: true
-Suggests: 
+Suggests:
     covr
