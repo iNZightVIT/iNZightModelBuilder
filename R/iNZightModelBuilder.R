@@ -1,0 +1,3 @@
+iNZightModel <- function() {
+    "hello world"
+}
